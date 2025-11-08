@@ -1,149 +1,55 @@
-# LaunchPad - AI Career Operating System for Students
+# LaunchPad
 
-LaunchPad is an AI-powered career platform that helps students transform "I want a tech career" into a clear, personalized roadmap with step-by-step guidance, skill recommendations, and direct pathways to internships at top companies.
+## Challenge Statement(s) Addressed 🎯
 
-## Features
+**How might we bridge the gap between education and employability for students in underrepresented communities through personalized, AI-powered career guidance?**
+**How might we help computer science students gain clarity on the specific skills, certifications, and experiences needed to reach their desired tech careers?**
 
-- **🗺️ AI Roadmap Builder** - Personalized, semester-by-semester career plans
-- **💬 Career Copilot** - Interactive AI chatbot for career guidance
-- **🎯 Smart Opportunity Matching** - Discover internships with transparent fit scores
-- **🎤 Interview Studio** - Practice interviews with AI feedback
-- **🏆 Portfolio Builder** - Shareable career profile showcasing your progress
-- **📊 Analytics Dashboard** - Impact insights for institutional partners
+## Project Description 🤯
 
-## Technology Stack
+LaunchPad is an AI-powered career acceleration platform that generates personalized roadmaps to guide students and professionals from learning to landing a job. Users complete a short onboarding process or upload their resume, and LaunchPad’s AI builds a detailed, role-specific roadmap that includes courses, projects, certifications, and real-world opportunities. The platform features a Career Copilot chatbot, Interview Studio for mock interviews with AI feedback, and Opportunities matching with “fit scores” based on user skills. Each user’s progress is tracked in a dynamic portfolio that showcases readiness and verified achievements.
 
-- **Frontend**: React 18 with Vite
-- **Styling**: TailwindCSS
-- **State Management**: Zustand with persist middleware
-- **AI**: OpenAI GPT-4 (with demo mode fallback)
-- **Storage**: LocalStorage (no backend required)
-- **Routing**: React Router v6
+## Project Value 💰
 
-## Getting Started
+LaunchPad empowers students, especially from under-resourced or underrepresented backgrounds, to pursue tech careers with structure and confidence. For students, it translates vague ambitions into step-by-step career plans aligned with their coursework and internships. For professionals, it recommends certifications, advanced projects, and upskilling paths for career advancement. Schools and sponsors benefit from a scalable, data-driven platform that improves job readiness and connects diverse talent pipelines to industry partners.
 
-### Prerequisites
+## Tech Overview 💻
 
-- Node.js 18+ and npm
+* ReactJS + Vite + TailwindCSS
+* Node.js + Express backend
+* GPT-4, Whisper, and OpenAI APIs for AI roadmap generation, chat, and feedback
+* Python (ML-based fit scoring)
+* Veo-3 (OpenAI) for video generation
+* Zustand for global state management
 
-### Installation
+### Link to Demo Presentation 📽
 
-```bash
-# Install dependencies
-npm install
+[LaunchPad Hackathon Deck – Canva Presentation](https://www.canva.com/design/DAG4FojSdU8/Xhq3dN9ZIzybeoqcFUnPzQ/edit?utm_content=DAG4FojSdU8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# Start development server
-npm run dev
+### Team Checklist ✅
 
-# Build for production
-npm run build
+* [x] Team photo
+* [x] Team Slack channel
+* [x] Communication established with mentor
+* [x] Repo creation from this template
+* [x] Flight Deck registration
 
-# Preview production build
-npm run preview
-```
+### Project Checklist 🏁
 
-### Configuration
+* [x] Presentation complete and linked
+* [x] Code merged to main branch
 
-1. The app runs in **demo mode** by default (uses mock AI responses)
-2. To enable full AI features:
-   - Get an API key from [platform.openai.com](https://platform.openai.com)
-   - Go to Settings in the app
-   - Enter your API key (stored locally)
-   - Toggle off demo mode
+### School Name 🏫
 
-## Architecture
+Morehouse College
 
-### Local-First Design
+### Team Name 🏷
 
-- All data stored in browser's localStorage
-- No external database or backend required
-- Complete privacy and data ownership
-- Works offline after initial load
+HackHouse
 
-### Project Structure
+### ✨ Contributors ✨
 
-```
-src/
-├── components/         # Reusable UI components
-│   └── dashboard/     # Dashboard-specific components
-├── data/              # Local JSON datasets
-├── pages/             # Page components
-├── services/          # AI service layer
-├── store/             # Zustand state management
-└── utils/             # Utility functions
-```
-
-## Key Features Detail
-
-### AI Roadmap Builder
-
-Generates a personalized career roadmap based on:
-- Major and interests
-- Current skills and experience level
-- Timeline and constraints
-- Target roles
-
-### Career Copilot
-
-Context-aware AI chatbot that:
-- Answers career questions
-- Explains role differences
-- Suggests next steps
-- Adjusts roadmaps dynamically
-
-### Smart Matching
-
-Calculates fit scores for opportunities based on:
-- Role alignment (30 points)
-- Required skills match (30 points)
-- Preferred skills match (10 points)
-- Experience level (15 points)
-- Location preference (15 points)
-
-### Interview Studio
-
-- Generates role-specific interview questions
-- Evaluates answers with scoring
-- Provides detailed feedback
-- Tracks improvement over time
-
-## Sponsor Integration
-
-The platform supports partnerships with companies:
-- McDonald's
-- PepsiCo
-- American Airlines
-- Fidelity Investments
-- Toyota
-- Verizon
-
-Sponsor-aligned content is tagged but never forced, maintaining student trust.
-
-## Data Privacy
-
-- All data stored locally in browser
-- No external servers or databases
-- API calls made directly from browser
-- Full user control and data export
-- GDPR and privacy-first design
-
-## Future Enhancements
-
-- Hosted backend option for institutions
-- Team collaboration features
-- Advanced analytics and reporting
-- Mobile app (React Native)
-- Integration with job boards
-- Verification and credentialing
-
-## License
-
-This project is built for educational purposes as part of a hackathon demonstration.
-
-## Contact
-
-For questions or feedback about LaunchPad, please reach out to the development team.
-
----
-
-**Built with ❤️ for students pursuing meaningful tech careers**
+* Aren Egwuekwe
+* Jean-Dominique Anoh
+* Kyle Ford
+* Mali Glemaud-Thesee
