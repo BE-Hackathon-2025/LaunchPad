@@ -2,16 +2,18 @@
 
 ## Challenge Statement(s) Addressed 🎯
 
-**How might we bridge the gap between education and employability for students in underrepresented communities through personalized, AI-powered career guidance?**
-**How might we help computer science students gain clarity on the specific skills, certifications, and experiences needed to reach their desired tech careers?**
+* How might we bridge the gap between students' career aspirations and actionable pathways to tech internships?
+* How might we provide personalized, AI-powered career guidance that adapts to each student's unique skills, timeline, and constraints?
+* How might we help students discover the right tech roles through transparent matching and AI-generated educational content?
 
 ## Project Description 🤯
 
-LaunchPad is an AI-powered career acceleration platform that generates personalized roadmaps to guide students and professionals from learning to landing a job. Users complete a short onboarding process or upload their resume, and LaunchPad’s AI builds a detailed, role-specific roadmap that includes courses, projects, certifications, and real-world opportunities. The platform features a Career Copilot chatbot, Interview Studio for mock interviews with AI feedback, and Opportunities matching with “fit scores” based on user skills. Each user’s progress is tracked in a dynamic portfolio that showcases readiness and verified achievements.
+LaunchPad is an AI-powered career platform that transforms "I want a tech career" into a clear, personalized roadmap with step-by-step guidance, skill recommendations, and direct pathways to internships at top companies. The platform uses OpenAI GPT-4 to generate semester-by-semester career plans, provides an interactive Career Copilot chatbot for real-time guidance, and matches students with opportunities using a transparent scoring algorithm. Students can practice interviews with AI feedback, build shareable portfolios, and explore tech roles through AI-generated explainer videos powered by OpenAI Sora 2. The entire platform is local-first, storing all data in the browser for complete privacy and data ownership, while providing both demo mode for quick exploration and full AI mode with API key integration.
 
 ## Project Value 💰
 
-LaunchPad empowers students, especially from under-resourced or underrepresented backgrounds, to pursue tech careers with structure and confidence. For students, it translates vague ambitions into step-by-step career plans aligned with their coursework and internships. For professionals, it recommends certifications, advanced projects, and upskilling paths for career advancement. Schools and sponsors benefit from a scalable, data-driven platform that improves job readiness and connects diverse talent pipelines to industry partners.
+Our target customers are college students exploring tech careers who feel overwhelmed by the complexity of breaking into the industry. LaunchPad provides tangible benefits by eliminating confusion through clear, personalized roadmaps that show exactly what to learn, when to learn it, and how it connects to real opportunities. Students save countless hours of research and trial-and-error by receiving AI-powered recommendations tailored to their major, timeline, and constraints. The platform's smart matching system provides transparent fit scores for internships, helping students apply strategically rather than sending hundreds of blind applications, while the Interview Studio builds confidence through realistic practice with detailed feedback.
+
 
 ## Tech Overview 💻
 
@@ -21,6 +23,8 @@ LaunchPad empowers students, especially from under-resourced or underrepresented
 * Python (ML-based fit scoring)
 * Veo-3 (OpenAI) for video generation
 * Zustand for global state management
+* LocalStorage (Local-First Architecture)
+* Lucide React Icons
 
 ### Link to Demo Presentation 📽
 
