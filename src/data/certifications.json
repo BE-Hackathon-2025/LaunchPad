@@ -1,0 +1,158 @@
+{
+  "certifications": [
+    {
+      "id": "aws-ccp",
+      "name": "AWS Certified Cloud Practitioner",
+      "provider": "Amazon Web Services",
+      "skills": ["Cloud Computing", "AWS", "Cloud Fundamentals"],
+      "level": "beginner",
+      "cost": "$100",
+      "sponsor_aligned": ["Verizon", "Fidelity"]
+    },
+    {
+      "id": "comptia-sec",
+      "name": "CompTIA Security+",
+      "provider": "CompTIA",
+      "skills": ["Cybersecurity", "Network Security", "Security Fundamentals"],
+      "level": "beginner",
+      "cost": "$392",
+      "sponsor_aligned": ["Verizon", "Fidelity"]
+    },
+    {
+      "id": "google-da",
+      "name": "Google Data Analytics Professional Certificate",
+      "provider": "Google / Coursera",
+      "skills": ["Data Analysis", "SQL", "Data Visualization", "R"],
+      "level": "beginner",
+      "cost": "Free - $49/month",
+      "sponsor_aligned": ["PepsiCo", "Fidelity", "American Airlines"]
+    },
+    {
+      "id": "meta-fe",
+      "name": "Meta Front-End Developer Certificate",
+      "provider": "Meta / Coursera",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Web Development"],
+      "level": "beginner",
+      "cost": "Free - $49/month",
+      "sponsor_aligned": []
+    },
+    {
+      "id": "google-ux",
+      "name": "Google UX Design Professional Certificate",
+      "provider": "Google / Coursera",
+      "skills": ["UX Design", "Prototyping", "User Research", "Figma"],
+      "level": "beginner",
+      "cost": "Free - $49/month",
+      "sponsor_aligned": ["McDonald's", "American Airlines"]
+    },
+    {
+      "id": "azure-fund",
+      "name": "Microsoft Azure Fundamentals (AZ-900)",
+      "provider": "Microsoft",
+      "skills": ["Cloud Computing", "Azure", "Cloud Fundamentals"],
+      "level": "beginner",
+      "cost": "$99",
+      "sponsor_aligned": ["Fidelity"]
+    },
+    {
+      "id": "google-pm",
+      "name": "Google Project Management Certificate",
+      "provider": "Google / Coursera",
+      "skills": ["Project Management", "Agile", "Scrum", "Leadership"],
+      "level": "beginner",
+      "cost": "Free - $49/month",
+      "sponsor_aligned": ["McDonald's", "PepsiCo", "Toyota"]
+    },
+    {
+      "id": "cisco-ccna",
+      "name": "Cisco CCNA",
+      "provider": "Cisco",
+      "skills": ["Networking", "Network Security", "Infrastructure"],
+      "level": "intermediate",
+      "cost": "$300",
+      "sponsor_aligned": ["Verizon"]
+    }
+  ],
+  "learning_resources": [
+    {
+      "id": "dsa-course",
+      "name": "Data Structures & Algorithms Fundamentals",
+      "type": "course",
+      "provider": "freeCodeCamp / YouTube",
+      "skills": ["Data Structures", "Algorithms"],
+      "cost": "Free",
+      "duration": "10-15 hours",
+      "sponsor_aligned": []
+    },
+    {
+      "id": "sql-basics",
+      "name": "SQL for Beginners",
+      "type": "course",
+      "provider": "Khan Academy / Mode Analytics",
+      "skills": ["SQL", "Database Basics"],
+      "cost": "Free",
+      "duration": "5-8 hours",
+      "sponsor_aligned": ["Fidelity", "PepsiCo"]
+    },
+    {
+      "id": "python-basics",
+      "name": "Python Programming Fundamentals",
+      "type": "course",
+      "provider": "Python.org / Codecademy",
+      "skills": ["Python", "Programming Basics"],
+      "cost": "Free",
+      "duration": "10-12 hours",
+      "sponsor_aligned": []
+    },
+    {
+      "id": "git-github",
+      "name": "Git and GitHub Essentials",
+      "type": "tutorial",
+      "provider": "GitHub Learning Lab",
+      "skills": ["Version Control", "Git", "Collaboration"],
+      "cost": "Free",
+      "duration": "2-3 hours",
+      "sponsor_aligned": []
+    },
+    {
+      "id": "web-dev-basics",
+      "name": "Web Development Bootcamp",
+      "type": "course",
+      "provider": "The Odin Project / freeCodeCamp",
+      "skills": ["HTML", "CSS", "JavaScript", "Web Development"],
+      "cost": "Free",
+      "duration": "40-60 hours",
+      "sponsor_aligned": []
+    },
+    {
+      "id": "react-fundamentals",
+      "name": "React JS Fundamentals",
+      "type": "course",
+      "provider": "React.dev / Scrimba",
+      "skills": ["React", "JavaScript", "Frontend Development"],
+      "cost": "Free - $20",
+      "duration": "15-20 hours",
+      "sponsor_aligned": []
+    },
+    {
+      "id": "cybersec-basics",
+      "name": "Introduction to Cybersecurity",
+      "type": "course",
+      "provider": "Cybrary / Cisco Networking Academy",
+      "skills": ["Cybersecurity", "Network Security", "Threat Analysis"],
+      "cost": "Free",
+      "duration": "8-10 hours",
+      "sponsor_aligned": ["Verizon", "Fidelity"]
+    },
+    {
+      "id": "figma-basics",
+      "name": "Figma for Beginners",
+      "type": "tutorial",
+      "provider": "Figma Learn / YouTube",
+      "skills": ["Figma", "UI Design", "Prototyping"],
+      "cost": "Free",
+      "duration": "3-5 hours",
+      "sponsor_aligned": []
+    }
+  ]
+}

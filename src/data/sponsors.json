@@ -1,0 +1,82 @@
+{
+  "sponsors": [
+    {
+      "id": "mcdonalds",
+      "name": "McDonald's",
+      "logo": "/logos/mcdonalds.png",
+      "focus_areas": ["Digital Technology", "Mobile Development", "Operations", "Management", "Customer Experience"],
+      "target_roles": ["SWE", "Mobile", "PM", "UX"],
+      "programs": [
+        "Summer Technology Internship",
+        "HACER Scholarship",
+        "Global Technology Leadership Program"
+      ],
+      "description": "McDonald's is investing in digital innovation and seeks diverse tech talent."
+    },
+    {
+      "id": "pepsico",
+      "name": "PepsiCo",
+      "logo": "/logos/pepsico.png",
+      "focus_areas": ["Supply Chain Analytics", "Data Science", "Operations", "Sustainability", "Digital Transformation"],
+      "target_roles": ["Data", "SWE", "PM"],
+      "programs": [
+        "Data Analytics Internship",
+        "Digital Transformation Program",
+        "Operations Leadership Development"
+      ],
+      "description": "PepsiCo uses data and technology to optimize global operations and sustainability."
+    },
+    {
+      "id": "american-airlines",
+      "name": "American Airlines",
+      "logo": "/logos/aa.png",
+      "focus_areas": ["Customer Experience", "Logistics", "Aviation Technology", "UX Design", "Data"],
+      "target_roles": ["UX", "SWE", "Data", "PM"],
+      "programs": [
+        "Technology Internship",
+        "UX Design Program",
+        "Customer Experience Innovation"
+      ],
+      "description": "American Airlines focuses on enhancing digital experiences for millions of travelers."
+    },
+    {
+      "id": "fidelity",
+      "name": "Fidelity Investments",
+      "logo": "/logos/fidelity.png",
+      "focus_areas": ["Fintech", "Data Science", "Cybersecurity", "Software Engineering", "Financial Literacy"],
+      "target_roles": ["SWE", "Data", "Cybersecurity", "PM"],
+      "programs": [
+        "LEAP Program (Early Career)",
+        "Technology Internship",
+        "Quantitative Development Program"
+      ],
+      "description": "Fidelity is a leader in fintech innovation with strong diversity and inclusion initiatives."
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "logo": "/logos/toyota.png",
+      "focus_areas": ["Mobility", "Robotics", "Automotive Software", "Manufacturing Tech", "AI & Autonomy"],
+      "target_roles": ["SWE", "Cloud", "Data"],
+      "programs": [
+        "Toyota Connected Internship",
+        "Engineering Development Program",
+        "Mobility Innovation Fellowship"
+      ],
+      "description": "Toyota is pioneering the future of mobility with connected vehicles and autonomous systems."
+    },
+    {
+      "id": "verizon",
+      "name": "Verizon",
+      "logo": "/logos/verizon.png",
+      "focus_areas": ["5G", "Networking", "Cybersecurity", "Edge Computing", "Cloud Infrastructure"],
+      "target_roles": ["Cloud", "Cybersecurity", "SWE"],
+      "programs": [
+        "Network Engineering Internship",
+        "Cybersecurity Academy",
+        "Cloud Engineering Program"
+      ],
+      "description": "Verizon is building the future of connectivity with 5G, edge, and security technologies."
+    }
+  ]
+}

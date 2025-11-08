@@ -1,0 +1,564 @@
+{
+  "opportunities": [
+    {
+      "id": "opp-001",
+      "title": "Software Engineering Intern",
+      "company": "Fidelity Investments",
+      "location_type": "Hybrid - Boston, MA",
+      "role_type": "SWE",
+      "description": "Build financial technology solutions and work on customer-facing applications.",
+      "required_skills": [
+        "Java",
+        "Python",
+        "Data Structures",
+        "Git"
+      ],
+      "preferred_skills": [
+        "React",
+        "Spring Boot",
+        "SQL"
+      ],
+      "level": "Intern",
+      "duration": "10-12 weeks (Summer)",
+      "sponsor_tag": "Fidelity",
+      "application_link": "https://jobs.fidelity.com/students"
+    },
+    {
+      "id": "opp-002",
+      "title": "Data Analytics Intern",
+      "company": "PepsiCo",
+      "location_type": "Hybrid - Chicago, IL",
+      "role_type": "Data",
+      "description": "Analyze supply chain data to optimize operations and drive efficiency.",
+      "required_skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Data Visualization"
+      ],
+      "preferred_skills": [
+        "Tableau",
+        "Statistics",
+        "R"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "PepsiCo",
+      "application_link": "https://www.pepsicojobs.com/internships"
+    },
+    {
+      "id": "opp-003",
+      "title": "Cybersecurity Intern",
+      "company": "Verizon",
+      "location_type": "Remote",
+      "role_type": "Cybersecurity",
+      "description": "Support security operations, threat monitoring, and vulnerability assessments.",
+      "required_skills": [
+        "Network Security",
+        "Linux",
+        "Security Tools",
+        "Python"
+      ],
+      "preferred_skills": [
+        "SIEM Tools",
+        "Incident Response",
+        "CompTIA Security+"
+      ],
+      "level": "Intern",
+      "duration": "12 weeks (Summer)",
+      "sponsor_tag": "Verizon",
+      "application_link": "https://www.verizon.com/about/work/internships"
+    },
+    {
+      "id": "opp-004",
+      "title": "Digital Technology Intern",
+      "company": "McDonald's",
+      "location_type": "Hybrid - Chicago, IL",
+      "role_type": "SWE",
+      "description": "Work on mobile and web applications that enhance customer experience.",
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "Git",
+        "REST APIs"
+      ],
+      "preferred_skills": [
+        "React Native",
+        "Node.js",
+        "Agile"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "McDonald's",
+      "application_link": "https://careers.mcdonalds.com/global-corporate/jobs"
+    },
+    {
+      "id": "opp-005",
+      "title": "UX Design Intern",
+      "company": "American Airlines",
+      "location_type": "Hybrid - Dallas, TX",
+      "role_type": "UX",
+      "description": "Design customer-facing digital experiences for travelers.",
+      "required_skills": [
+        "Figma",
+        "User Research",
+        "Prototyping",
+        "Visual Design"
+      ],
+      "preferred_skills": [
+        "Accessibility",
+        "Design Systems",
+        "Usability Testing"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "American Airlines",
+      "application_link": "https://americanairlines.jobs/internships"
+    },
+    {
+      "id": "opp-006",
+      "title": "Cloud Engineering Intern",
+      "company": "Verizon",
+      "location_type": "Hybrid - Ashburn, VA",
+      "role_type": "Cloud",
+      "description": "Build and maintain cloud infrastructure supporting 5G and edge computing.",
+      "required_skills": [
+        "AWS",
+        "Python",
+        "Networking",
+        "Linux"
+      ],
+      "preferred_skills": [
+        "Terraform",
+        "Docker",
+        "CI/CD"
+      ],
+      "level": "Intern",
+      "duration": "12 weeks (Summer)",
+      "sponsor_tag": "Verizon",
+      "application_link": "https://www.verizon.com/about/work/internships"
+    },
+    {
+      "id": "opp-007",
+      "title": "Product Management Intern",
+      "company": "Fidelity Investments",
+      "location_type": "Hybrid - Boston, MA",
+      "role_type": "PM",
+      "description": "Define product roadmaps and collaborate with engineering and design teams.",
+      "required_skills": [
+        "Product Strategy",
+        "Data Analysis",
+        "Communication",
+        "Agile"
+      ],
+      "preferred_skills": [
+        "SQL",
+        "Jira",
+        "User Research"
+      ],
+      "level": "Intern",
+      "duration": "10-12 weeks (Summer)",
+      "sponsor_tag": "Fidelity",
+      "application_link": "https://jobs.fidelity.com/students"
+    },
+    {
+      "id": "opp-008",
+      "title": "Software Development Intern",
+      "company": "Toyota Connected",
+      "location_type": "Hybrid - Plano, TX",
+      "role_type": "SWE",
+      "description": "Develop mobility and automotive software solutions.",
+      "required_skills": [
+        "Java",
+        "C++",
+        "Git",
+        "Data Structures"
+      ],
+      "preferred_skills": [
+        "Embedded Systems",
+        "IoT",
+        "Cloud"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "Toyota",
+      "application_link": "https://www.toyota.com/careers"
+    },
+    {
+      "id": "opp-009",
+      "title": "Data Science Intern",
+      "company": "Fidelity Investments",
+      "location_type": "Hybrid - Boston, MA",
+      "role_type": "Data",
+      "description": "Build machine learning models to enhance customer experiences.",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "Statistics"
+      ],
+      "preferred_skills": [
+        "TensorFlow",
+        "Pandas",
+        "A/B Testing"
+      ],
+      "level": "Intern",
+      "duration": "10-12 weeks (Summer)",
+      "sponsor_tag": "Fidelity",
+      "application_link": "https://jobs.fidelity.com/students"
+    },
+    {
+      "id": "opp-010",
+      "title": "Mobile Development Intern",
+      "company": "McDonald's",
+      "location_type": "Hybrid - Chicago, IL",
+      "role_type": "Mobile",
+      "description": "Build and enhance the McDonald's mobile app experience.",
+      "required_skills": [
+        "React Native",
+        "JavaScript",
+        "REST APIs",
+        "Git"
+      ],
+      "preferred_skills": [
+        "iOS/Android Native",
+        "Firebase",
+        "Push Notifications"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "McDonald's",
+      "application_link": "https://careers.mcdonalds.com/global-corporate/jobs"
+    },
+    {
+      "id": "opp-011",
+      "title": "Supply Chain Analytics Intern",
+      "company": "PepsiCo",
+      "location_type": "Hybrid - Purchase, NY",
+      "role_type": "Data",
+      "description": "Use data to optimize supply chain and logistics operations.",
+      "required_skills": [
+        "Excel",
+        "SQL",
+        "Data Analysis",
+        "Statistics"
+      ],
+      "preferred_skills": [
+        "Tableau",
+        "Python",
+        "Supply Chain Knowledge"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "PepsiCo",
+      "application_link": "https://www.pepsicojobs.com/internships"
+    },
+    {
+      "id": "opp-012",
+      "title": "Network Engineering Intern",
+      "company": "Verizon",
+      "location_type": "Hybrid - Basking Ridge, NJ",
+      "role_type": "Cloud",
+      "description": "Work on next-generation 5G network infrastructure.",
+      "required_skills": [
+        "Networking",
+        "TCP/IP",
+        "Linux",
+        "Scripting"
+      ],
+      "preferred_skills": [
+        "Cisco CCNA",
+        "Network Security",
+        "Python"
+      ],
+      "level": "Intern",
+      "duration": "12 weeks (Summer)",
+      "sponsor_tag": "Verizon",
+      "application_link": "https://www.verizon.com/about/work/internships"
+    },
+    {
+      "id": "opp-013",
+      "title": "Full Stack Developer Intern",
+      "company": "American Airlines",
+      "location_type": "Remote",
+      "role_type": "SWE",
+      "description": "Build end-to-end features for airline operations and customer booking systems.",
+      "required_skills": [
+        "JavaScript",
+        "Node.js",
+        "React",
+        "SQL"
+      ],
+      "preferred_skills": [
+        "TypeScript",
+        "MongoDB",
+        "REST APIs"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "American Airlines",
+      "application_link": "https://americanairlines.jobs/internships"
+    },
+    {
+      "id": "opp-014",
+      "title": "AI/ML Research Intern",
+      "company": "Toyota",
+      "location_type": "Hybrid - Ann Arbor, MI",
+      "role_type": "Data",
+      "description": "Research and develop machine learning models for autonomous vehicle systems.",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow",
+        "Statistics"
+      ],
+      "preferred_skills": [
+        "Computer Vision",
+        "Deep Learning",
+        "PyTorch"
+      ],
+      "level": "Intern",
+      "duration": "12 weeks (Summer)",
+      "sponsor_tag": "Toyota",
+      "application_link": "https://www.toyota.com/careers"
+    },
+    {
+      "id": "opp-015",
+      "title": "DevOps Engineering Intern",
+      "company": "Fidelity Investments",
+      "location_type": "Hybrid - Durham, NC",
+      "role_type": "Cloud",
+      "description": "Automate infrastructure deployment and maintain CI/CD pipelines.",
+      "required_skills": [
+        "Linux",
+        "Docker",
+        "Git",
+        "Scripting"
+      ],
+      "preferred_skills": [
+        "Kubernetes",
+        "Jenkins",
+        "AWS",
+        "Terraform"
+      ],
+      "level": "Intern",
+      "duration": "10-12 weeks (Summer)",
+      "sponsor_tag": "Fidelity",
+      "application_link": "https://jobs.fidelity.com/students"
+    },
+    {
+      "id": "opp-016",
+      "title": "Information Security Intern",
+      "company": "McDonald's",
+      "location_type": "Hybrid - Chicago, IL",
+      "role_type": "Cybersecurity",
+      "description": "Support enterprise security initiatives and compliance programs.",
+      "required_skills": [
+        "Security Fundamentals",
+        "Networking",
+        "Windows/Linux",
+        "Documentation"
+      ],
+      "preferred_skills": [
+        "Security+",
+        "SIEM",
+        "Vulnerability Assessment"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "McDonald's",
+      "application_link": "https://careers.mcdonalds.com/global-corporate/jobs"
+    },
+    {
+      "id": "opp-017",
+      "title": "Business Intelligence Intern",
+      "company": "PepsiCo",
+      "location_type": "Hybrid - Dallas, TX",
+      "role_type": "Data",
+      "description": "Build dashboards and reports to support strategic business decisions.",
+      "required_skills": [
+        "SQL",
+        "Excel",
+        "Tableau",
+        "Data Visualization"
+      ],
+      "preferred_skills": [
+        "Power BI",
+        "Python",
+        "Business Analytics"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "PepsiCo",
+      "application_link": "https://www.pepsicojobs.com/internships"
+    },
+    {
+      "id": "opp-018",
+      "title": "Product Design Intern",
+      "company": "Fidelity Investments",
+      "location_type": "Remote",
+      "role_type": "UX",
+      "description": "Design intuitive financial planning tools and mobile experiences.",
+      "required_skills": [
+        "Figma",
+        "User Research",
+        "Prototyping",
+        "Design Thinking"
+      ],
+      "preferred_skills": [
+        "Sketch",
+        "Adobe XD",
+        "Usability Testing",
+        "HTML/CSS"
+      ],
+      "level": "Intern",
+      "duration": "10-12 weeks (Summer)",
+      "sponsor_tag": "Fidelity",
+      "application_link": "https://jobs.fidelity.com/students"
+    },
+    {
+      "id": "opp-019",
+      "title": "IoT Software Intern",
+      "company": "Verizon",
+      "location_type": "Hybrid - Waltham, MA",
+      "role_type": "SWE",
+      "description": "Develop software for connected devices and IoT platforms.",
+      "required_skills": [
+        "Python",
+        "C/C++",
+        "Networking",
+        "Embedded Systems"
+      ],
+      "preferred_skills": [
+        "MQTT",
+        "IoT Protocols",
+        "Linux",
+        "Edge Computing"
+      ],
+      "level": "Intern",
+      "duration": "12 weeks (Summer)",
+      "sponsor_tag": "Verizon",
+      "application_link": "https://www.verizon.com/about/work/internships"
+    },
+    {
+      "id": "opp-020",
+      "title": "Digital Marketing Analytics Intern",
+      "company": "McDonald's",
+      "location_type": "Remote",
+      "role_type": "Data",
+      "description": "Analyze digital marketing campaigns and customer engagement data.",
+      "required_skills": [
+        "Excel",
+        "Google Analytics",
+        "Data Analysis",
+        "SQL"
+      ],
+      "preferred_skills": [
+        "Python",
+        "Tableau",
+        "A/B Testing",
+        "Marketing Analytics"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "McDonald's",
+      "application_link": "https://careers.mcdonalds.com/global-corporate/jobs"
+    },
+    {
+      "id": "opp-021",
+      "title": "Technical Product Manager Intern",
+      "company": "Toyota",
+      "location_type": "Hybrid - Plano, TX",
+      "role_type": "PM",
+      "description": "Support product strategy for connected car technologies and mobility services.",
+      "required_skills": [
+        "Product Strategy",
+        "Communication",
+        "Data Analysis",
+        "Technical Writing"
+      ],
+      "preferred_skills": [
+        "Agile",
+        "SQL",
+        "API Knowledge",
+        "UX Fundamentals"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "Toyota",
+      "application_link": "https://www.toyota.com/careers"
+    },
+    {
+      "id": "opp-022",
+      "title": "Backend Engineer Intern",
+      "company": "American Airlines",
+      "location_type": "Hybrid - Dallas, TX",
+      "role_type": "SWE",
+      "description": "Build scalable APIs and microservices for flight operations systems.",
+      "required_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST APIs"
+      ],
+      "preferred_skills": [
+        "Microservices",
+        "Kafka",
+        "Redis",
+        "Docker"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "American Airlines",
+      "application_link": "https://americanairlines.jobs/internships"
+    },
+    {
+      "id": "opp-023",
+      "title": "Cloud Security Intern",
+      "company": "Fidelity Investments",
+      "location_type": "Hybrid - Boston, MA",
+      "role_type": "Cybersecurity",
+      "description": "Secure cloud infrastructure and implement security best practices.",
+      "required_skills": [
+        "Cloud Platforms",
+        "Security Fundamentals",
+        "Python",
+        "Networking"
+      ],
+      "preferred_skills": [
+        "AWS Security",
+        "Azure Security",
+        "IAM",
+        "Security Automation"
+      ],
+      "level": "Intern",
+      "duration": "10-12 weeks (Summer)",
+      "sponsor_tag": "Fidelity",
+      "application_link": "https://jobs.fidelity.com/students"
+    },
+    {
+      "id": "opp-024",
+      "title": "Quality Assurance Intern",
+      "company": "PepsiCo",
+      "location_type": "Hybrid - Chicago, IL",
+      "role_type": "SWE",
+      "description": "Develop automated tests and ensure software quality for enterprise applications.",
+      "required_skills": [
+        "Testing Fundamentals",
+        "JavaScript",
+        "Git",
+        "Problem Solving"
+      ],
+      "preferred_skills": [
+        "Selenium",
+        "Cypress",
+        "Jest",
+        "CI/CD"
+      ],
+      "level": "Intern",
+      "duration": "10 weeks (Summer)",
+      "sponsor_tag": "PepsiCo",
+      "application_link": "https://www.pepsicojobs.com/internships"
+    }
+  ]
+}

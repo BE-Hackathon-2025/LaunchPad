@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# etc
+LOCAL_VIDEO_SETUP.md
+DEPLOYMENT.md
+FIXES_SUMMARY.md
+IMPLEMENTATION_SUMMARY.md
+LOCAL_VIDEO_SETUP.md
+SETUP.md
+test-sora-video.js
+USER_TYPE_SYSTEM_DOCUMENTATION.md
