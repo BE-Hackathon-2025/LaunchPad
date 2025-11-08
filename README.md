@@ -21,7 +21,7 @@ Our target customers are college students exploring tech careers who feel overwh
 * Node.js + Express backend
 * GPT-4, Whisper, and OpenAI APIs for AI roadmap generation, chat, and feedback
 * Python (ML-based fit scoring)
-* Veo-3 (OpenAI) for video generation
+* Veo-3 (Google Gemini) for video generation
 * Zustand for global state management
 * LocalStorage (Local-First Architecture)
 * Lucide React Icons
