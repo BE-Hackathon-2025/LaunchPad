@@ -30,6 +30,8 @@ Our target customers are college students exploring tech careers who feel overwh
 
 [LaunchPad Hackathon Deck – Canva Presentation](https://www.canva.com/design/DAG4FojSdU8/Xhq3dN9ZIzybeoqcFUnPzQ/edit?utm_content=DAG4FojSdU8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Video Demo] (https://drive.google.com/file/d/1SL8xfrbek4Xp3n01jlvQsvsSjd1J8FJT/view?usp=drive_link)
+
 ### Team Checklist ✅
 
 * [x] Team photo
